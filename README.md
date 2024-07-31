@@ -1,6 +1,6 @@
 ### Olá, meu nome é <strong>Luan</strong>. 👋
 
-> Redator de publicidade em fase de transição de carreira para Desenvolvimento de Software.
+> Redator de publicidade e estudante de Análise e Desenvolvimento de Sistemas.
 
 ## <strong>Tecnologias:</strong>
 
